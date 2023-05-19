@@ -1,8 +1,7 @@
 
 # NYTimes
 
-
-# App developed in MVC pattern with Data binding with JDK version 11 , Android Studio version chipmunk
+             App developed in MVC pattern with Data binding with JDK version 11 , Android Studio version chipmunk
 
 # Ext Libraries Used - 
                    1 Retrofit,Gson,Gson-converter  (API calling)
